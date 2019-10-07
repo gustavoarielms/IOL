@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="source-language">
+        <value>en</value>
+    </resheader>
+    <data name="EmptyListOfShapes" xml:space="preserve">
+        <value>Lista vacía de formas!</value>
+    </data>
+    <data name="ShapesReport" xml:space="preserve">
+        <value>Reporte de Formas</value>
+    </data>
+    <data name="Shapes" xml:space="preserve">
+        <value>formas</value>
+    </data>
+    <data name="Perimeter" xml:space="preserve">
+        <value>Perimetro</value>
+    </data>
+    <data name="CUADRADO" xml:space="preserve">
+        <value>Cuadrado</value>
+    </data>
+    <data name="CUADRADO_PLURAL" xml:space="preserve">
+        <value>Cuadrados</value>
+    </data>
+    <data name="CIRCULO" xml:space="preserve">
+        <value>Círculo</value>
+    </data>
+    <data name="CIRCULO_PLURAL" xml:space="preserve">
+        <value>Círculos</value>
+    </data>
+    <data name="TRIANGULO_EQUILATERO" xml:space="preserve">
+        <value>Triángulo</value>
+    </data>
+    <data name="TRIANGULO_EQUILATERO_PLURAL" xml:space="preserve">
+        <value>Triángulos</value>
+    </data>
+    <data name="TRAPECIO" xml:space="preserve">
+        <value>Trapecio</value>
+    </data>
+    <data name="TRAPECIO_PLURAL" xml:space="preserve">
+        <value>Trapecios</value>
+    </data>
+</root>
